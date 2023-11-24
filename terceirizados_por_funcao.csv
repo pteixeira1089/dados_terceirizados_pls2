@@ -11640,157 +11640,156 @@
 148,Windows,1,2021-10-01
 149,pedreiro,4,2021-10-01
 150,"repórter fotográfico - realiza registro fotográfico de todos os eventos, ministros, etc",4,2021-10-01
-0,Agente de Segurança Pessoal Privada,150,2021-10-01
-1,Agente de Segurança Pessoal Privada Supervisor de Serviços,8,2021-10-01
-2,Almoxarife,1,2021-10-01
-3,Almoxarife Técnico,2,2021-10-01
-4,Analista Jr.,4,2021-10-01
-5,Analista Programador Java de nível Pleno,30,2021-10-01
-6,Analista Suporte Técnico Informática,13,2021-10-01
-7,Analista de Rede,3,2021-10-01
-8,Armazenamento,1,2021-10-01
-9,Ascensorista,32,2021-10-01
-10,Assistente de Fotografia,2,2021-10-01
-11,Assistente de Supervisão,1,2021-10-01
-12,Auditoria Médica Externa,3,2021-10-01
-13,Auditoria Médica Interna- Auditagem de Despesas Médicas,1,2021-10-01
-14,Auxiliar Administrativo,5,2021-10-01
-15,Auxiliar Técnico,2,2021-10-01
-16,Auxiliar de Biblioteca,11,2021-10-01
-17,Auxiliar de Educação Infantil,22,2021-10-01
-18,Auxiliar de Higienização e Acondicionamento de Acervos,10,2021-10-01
-19,Auxiliar de Manutenção Predial,15,2021-10-01
-20,Auxiliar de Marcenaria,3,2021-10-01
-21,Auxiliar de Mecânico,1,2021-10-01
-22,Auxiliar de Mecânico de Refrigeração,3,2021-10-01
-23,Auxiliar de Operador de Camera UPE,6,2021-10-01
-24,Auxiliar de Serviços Gerais,15,2021-10-01
-25,Auxiliar em Telefonia,2,2021-10-01
-26,Backup,1,2021-10-01
-27,Banco de Dados,2,2021-10-01
-28,Bombeiro Civil Líder,2,2021-10-01
-29,Bombeiro Civil Mestre,1,2021-10-01
-30,Bombeiro Civil Noturno 12X36,8,2021-10-01
-31,Bombeiro Hidráulico,8,2021-10-01
-32,Bomberiro Civil Diurno 12X36,20,2021-10-01
-33,Cerimonialista,2,2021-10-01
-34,Chefe de Reportagem de Rádio e TV,1,2021-10-01
-35,Consultor de Operação Assistida,1,2021-10-01
-36,Copeira,64,2021-10-01
-37,Copeiro,2,2021-10-01
-38,Cozinheira,4,2021-10-01
-39,Desenhista / Videografista,3,2021-10-01
-40,Desenhista em CAD,1,2021-10-01
-41,Designer Gráfico Júnior,4,2021-10-01
-42,Designer Gráfico Pleno,5,2021-10-01
-43,Designer Gráfico Sênior,2,2021-10-01
-44,Digitalizador,123,2021-10-01
-45,Diretor de Imagem de TV - DTV,1,2021-10-01
-46,Documentadora,1,2021-10-01
-47,ENGENHEIRO DE SISTEMAS,1,2021-10-01
-48,"Editor de Imagem, Pós Prod. e Fin. de Vídeo",6,2021-10-01
-49,Editor de Texto TV,4,2021-10-01
-50,Editor de Texto de Radio,2,2021-10-01
-51,Eletricista,2,2021-10-01
-52,Encarregado de Elétrica,2,2021-10-01
-53,Encarregado de Hidráulica,1,2021-10-01
-54,Encarregado de Jardinagem,1,2021-10-01
-55,Encarregado de Mecânica de Refrigeração,1,2021-10-01
-56,Enfermeira/Supervisora,1,2021-10-01
-57,Engenheiro Eletricista,1,2021-10-01
-58,Faturista,8,2021-10-01
-59,Garçom,38,2021-10-01
-60,Garçonete,3,2021-10-01
-61,Gerente técnico / Preposto,1,2021-10-01
-62,Gesseiro,2,2021-10-01
-63,Iluminador,1,2021-10-01
-64,Impressor Digital,8,2021-10-01
-65,Instrumentação Técnica,1,2021-10-01
-66,Jardineiro,10,2021-10-01
-67,Jauzeiro,3,2021-10-01
-68,Lavador,6,2021-10-01
-69,Linux / Unix,1,2021-10-01
-70,Lustrador,2,2021-10-01
-71,Manutenção Técnica,1,2021-10-01
-72,Maquiador / Cabelereiro / Figurinista,1,2021-10-01
-73,Marceneiro,6,2021-10-01
-74,Mecânico de Refrigeração,5,2021-10-01
-75,Meio Oficial Eletricista,3,2021-10-01
-76,Mensageiro,42,2021-10-01
-77,Mensageiro com terno,71,2021-10-01
-78,Mensageiro de Gabinete,1,2021-10-01
-79,Monitor de Automação da Central (diurno),1,2021-10-01
-80,Monitor de Automação da Central (noturno),1,2021-10-01
-81,Monitor de Operação CAG (diurno),2,2021-10-01
-82,Monitor de operação CAG noturno,2,2021-10-01
-83,Monitoração,19,2021-10-01
-84,Motorista,26,2021-10-01
-85,Médico Auditor,1,2021-10-01
-86,Oficial Eletricista,15,2021-10-01
-87,Op. de Camera UPE,4,2021-10-01
-88,Operador da Central de Detecção,2,2021-10-01
-89,Operador de Micro,1,2021-10-01
-90,Operador de Máquina de Caracteres,1,2021-10-01
-91,Operador de Mídia Audiovisual,1,2021-10-01
-92,Operador de Video,2,2021-10-01
-93,Operador de Áudio,1,2021-10-01
-94,Pedagoga,1,2021-10-01
-95,Pintor,4,2021-10-01
-96,Preparador de Documentos,17,2021-10-01
-97,Preposto,2,2021-10-01
-98,"Produtor de Jornalismo, Rádio e TV",5,2021-10-01
-99,Recepcionista,120,2021-10-01
-100,Reporter de Radio e TV,3,2021-10-01
-101,Reporter de Radio e TV / Apresentador,2,2021-10-01
-102,Reserva/Mensageiro,1,2021-10-01
-103,Reserva/Tec. em Secretariado,1,2021-10-01
-104,Revisor de texto,7,2021-10-01
-105,Servente,147,2021-10-01
-106,Sonoplasta,2,2021-10-01
-107,Supervisionar serviços administrativos prestados por pessoas com deficiência,1,2021-10-01
-108,Supervisor,26,2021-10-01
-109,Supervisor Administrativo,1,2021-10-01
-110,Supervisor Geral de Serventes,1,2021-10-01
-111,Supervisor Técnico - Engenheiro Civil,1,2021-10-01
-112,Supervisor Técnico - Engenheiro Elétrico,1,2021-10-01
-113,Supervisor Técnico - Engenheiro Mecânico,2,2021-10-01
-114,Supervisor Técnico-Operacional de Radio e TV,2,2021-10-01
-115,Supervisor de 1º Nivel,2,2021-10-01
-116,Supervisor de 2º Nivel,2,2021-10-01
-117,Supervisor de Documentação,1,2021-10-01
-118,Supervisor de Marcenaria,2,2021-10-01
-119,Supervisor de Vigilância,6,2021-10-01
-120,Supervisora,1,2021-10-01
-121,Suporte Técnico Externo,1,2021-10-01
-122,Suporte Técnico Interno,4,2021-10-01
-123,TECNICO DE AUDIO,2,2021-10-01
-124,TECNICO DE VIDEO,1,2021-10-01
-125,Telefonista,8,2021-10-01
-126,Triagem de chamados,2,2021-10-01
-127,Técnico 1º Nivel,20,2021-10-01
-128,Técnico 1º Nível - SAA,9,2021-10-01
-129,Técnico Atendimento Suporte Presencial - ASP,21,2021-10-01
-130,Técnico Atendimento Suporte Presencial - Judiciária,1,2021-10-01
-131,Técnico Manutenção de Hardware,2,2021-10-01
-132,Técnico de Elevador Residente,1,2021-10-01
-133,Técnico de Suporte,2,2021-10-01
-134,Técnico em Cabeamento e Rede Estruturada,4,2021-10-01
-135,Técnico em Detecção e Alarme de Incêndio,5,2021-10-01
-136,Técnico em Eletrotécnica,1,2021-10-01
-137,Técnico em Eletrônica I,5,2021-10-01
-138,Técnico em Estocagem e Movimentação de Bens,28,2021-10-01
-139,Técnico em Manutenção de Edificações,1,2021-10-01
-140,Técnico em Máquinas,1,2021-10-01
-141,Técnico em Refrigeração,1,2021-10-01
-142,Técnico em Secretariado,175,2021-10-01
-143,Técnico em Sistemas de Comunicação Open Scape VOIP,1,2021-10-01
-144,Técnico em Telefonia,6,2021-10-01
-145,Vigilante,90,2021-10-01
-146,Vigilante Diurno 12x36,33,2021-10-01
-147,Vigilante Noturno 12x36,32,2021-10-01
-148,Windows,1,2021-10-01
-149,pedreiro,4,2021-10-01
-150,"repórter fotográfico - realiza registro fotográfico de todos os eventos, ministros, etc",4,2021-10-01
+0,Agente de Segurança Pessoal Privada,150,2021-11-01
+1,Agente de Segurança Pessoal Privada Supervisor de Serviços,8,2021-11-01
+2,Almoxarife,1,2021-11-01
+3,Almoxarife Técnico,2,2021-11-01
+4,Analista Jr.,4,2021-11-01
+5,Analista Programador Java de nível Pleno,30,2021-11-01
+6,Analista Suporte Técnico Informática,13,2021-11-01
+7,Analista de Rede,3,2021-11-01
+8,Armazenamento,1,2021-11-01
+9,Ascensorista,32,2021-11-01
+10,Assistente de Fotografia,2,2021-11-01
+11,Assistente de Supervisão,1,2021-11-01
+12,Auditoria Médica Externa,3,2021-11-01
+13,Auditoria Médica Interna- Auditagem de Despesas Médicas,1,2021-11-01
+14,Auxiliar Administrativo,5,2021-11-01
+15,Auxiliar Técnico,2,2021-11-01
+16,Auxiliar de Biblioteca,10,2021-11-01
+17,Auxiliar de Educação Infantil,22,2021-11-01
+18,Auxiliar de Higienização e Acondicionamento de Acervos,10,2021-11-01
+19,Auxiliar de Manutenção Predial,15,2021-11-01
+20,Auxiliar de Marcenaria,3,2021-11-01
+21,Auxiliar de Mecânico,1,2021-11-01
+22,Auxiliar de Mecânico de Refrigeração,3,2021-11-01
+23,Auxiliar de Operador de Camera UPE,6,2021-11-01
+24,Auxiliar de Serviços Gerais,15,2021-11-01
+25,Auxiliar em Telefonia,2,2021-11-01
+26,Backup,1,2021-11-01
+27,Banco de Dados,2,2021-11-01
+28,Bombeiro Civil Líder,2,2021-11-01
+29,Bombeiro Civil Mestre,1,2021-11-01
+30,Bombeiro Civil Noturno 12X36,8,2021-11-01
+31,Bombeiro Hidráulico,8,2021-11-01
+32,Bomberiro Civil Diurno 12X36,20,2021-11-01
+33,Cerimonialista,2,2021-11-01
+34,Chefe de Reportagem de Rádio e TV,1,2021-11-01
+35,Consultor de Operação Assistida,1,2021-11-01
+36,Copeira,64,2021-11-01
+37,Copeiro,2,2021-11-01
+38,Cozinheira,4,2021-11-01
+39,Desenhista / Videografista,3,2021-11-01
+40,Desenhista em CAD,1,2021-11-01
+41,Designer Gráfico Júnior,4,2021-11-01
+42,Designer Gráfico Pleno,5,2021-11-01
+43,Designer Gráfico Sênior,2,2021-11-01
+44,Digitalizador,123,2021-11-01
+45,Diretor de Imagem de TV - DTV,1,2021-11-01
+46,Documentadora,1,2021-11-01
+47,ENGENHEIRO DE SISTEMAS,1,2021-11-01
+48,"Editor de Imagem, Pós Prod. e Fin. de Vídeo",6,2021-11-01
+49,Editor de Texto TV,4,2021-11-01
+50,Editor de Texto de Radio,2,2021-11-01
+51,Eletricista,2,2021-11-01
+52,Encarregado de Elétrica,2,2021-11-01
+53,Encarregado de Hidráulica,1,2021-11-01
+54,Encarregado de Jardinagem,1,2021-11-01
+55,Encarregado de Mecânica de Refrigeração,1,2021-11-01
+56,Enfermeira/Supervisora,1,2021-11-01
+57,Engenheiro Eletricista,1,2021-11-01
+58,Faturista,8,2021-11-01
+59,Garçom,38,2021-11-01
+60,Garçonete,3,2021-11-01
+61,Gerente técnico / Preposto,1,2021-11-01
+62,Gesseiro,2,2021-11-01
+63,Iluminador,1,2021-11-01
+64,Impressor Digital,8,2021-11-01
+65,Instrumentação Técnica,1,2021-11-01
+66,Jardineiro,10,2021-11-01
+67,Jauzeiro,3,2021-11-01
+68,Lavador,6,2021-11-01
+69,Linux / Unix,1,2021-11-01
+70,Lustrador,2,2021-11-01
+71,Manutenção Técnica,1,2021-11-01
+72,Maquiador / Cabelereiro / Figurinista,1,2021-11-01
+73,Marceneiro,6,2021-11-01
+74,Mecânico de Refrigeração,5,2021-11-01
+75,Meio Oficial Eletricista,3,2021-11-01
+76,Mensageiro,43,2021-11-01
+77,Mensageiro com terno,71,2021-11-01
+78,Mensageiro de Gabinete,1,2021-11-01
+79,Monitor de Automação da Central (diurno),1,2021-11-01
+80,Monitor de Automação da Central (noturno),1,2021-11-01
+81,Monitor de Operação CAG (diurno),2,2021-11-01
+82,Monitor de operação CAG noturno,2,2021-11-01
+83,Monitoração,19,2021-11-01
+84,Motorista,26,2021-11-01
+85,Médico Auditor,1,2021-11-01
+86,Oficial Eletricista,15,2021-11-01
+87,Op. de Camera UPE,4,2021-11-01
+88,Operador da Central de Detecção,2,2021-11-01
+89,Operador de Micro,1,2021-11-01
+90,Operador de Máquina de Caracteres,1,2021-11-01
+91,Operador de Mídia Audiovisual,1,2021-11-01
+92,Operador de Video,2,2021-11-01
+93,Operador de Áudio,1,2021-11-01
+94,Pedagoga,1,2021-11-01
+95,Pintor,4,2021-11-01
+96,Preparador de Documentos,17,2021-11-01
+97,Preposto,2,2021-11-01
+98,"Produtor de Jornalismo, Rádio e TV",5,2021-11-01
+99,Recepcionista,120,2021-11-01
+100,Reporter de Radio e TV,3,2021-11-01
+101,Reporter de Radio e TV / Apresentador,2,2021-11-01
+102,Reserva/Tec. em Secretariado,1,2021-11-01
+103,Revisor de texto,8,2021-11-01
+104,Servente,147,2021-11-01
+105,Sonoplasta,2,2021-11-01
+106,Supervisionar serviços administrativos prestados por pessoas com deficiência,1,2021-11-01
+107,Supervisor,26,2021-11-01
+108,Supervisor Administrativo,1,2021-11-01
+109,Supervisor Geral de Serventes,1,2021-11-01
+110,Supervisor Técnico - Engenheiro Civil,1,2021-11-01
+111,Supervisor Técnico - Engenheiro Elétrico,1,2021-11-01
+112,Supervisor Técnico - Engenheiro Mecânico,2,2021-11-01
+113,Supervisor Técnico-Operacional de Radio e TV,2,2021-11-01
+114,Supervisor de 1º Nivel,2,2021-11-01
+115,Supervisor de 2º Nivel,2,2021-11-01
+116,Supervisor de Documentação,1,2021-11-01
+117,Supervisor de Marcenaria,2,2021-11-01
+118,Supervisor de Vigilância,6,2021-11-01
+119,Supervisora,1,2021-11-01
+120,Suporte Técnico Externo,1,2021-11-01
+121,Suporte Técnico Interno,4,2021-11-01
+122,TECNICO DE AUDIO,2,2021-11-01
+123,TECNICO DE VIDEO,1,2021-11-01
+124,Telefonista,8,2021-11-01
+125,Triagem de chamados,2,2021-11-01
+126,Técnico 1º Nivel,20,2021-11-01
+127,Técnico 1º Nível - SAA,9,2021-11-01
+128,Técnico Atendimento Suporte Presencial - ASP,21,2021-11-01
+129,Técnico Atendimento Suporte Presencial - Judiciária,1,2021-11-01
+130,Técnico Manutenção de Hardware,2,2021-11-01
+131,Técnico de Elevador Residente,1,2021-11-01
+132,Técnico de Suporte,2,2021-11-01
+133,Técnico em Cabeamento e Rede Estruturada,4,2021-11-01
+134,Técnico em Detecção e Alarme de Incêndio,5,2021-11-01
+135,Técnico em Eletrotécnica,1,2021-11-01
+136,Técnico em Eletrônica I,5,2021-11-01
+137,Técnico em Estocagem e Movimentação de Bens,28,2021-11-01
+138,Técnico em Manutenção de Edificações,1,2021-11-01
+139,Técnico em Máquinas,1,2021-11-01
+140,Técnico em Refrigeração,1,2021-11-01
+141,Técnico em Secretariado,175,2021-11-01
+142,Técnico em Sistemas de Comunicação Open Scape VOIP,1,2021-11-01
+143,Técnico em Telefonia,6,2021-11-01
+144,Vigilante,90,2021-11-01
+145,Vigilante Diurno 12x36,33,2021-11-01
+146,Vigilante Noturno 12x36,32,2021-11-01
+147,Windows,1,2021-11-01
+148,pedreiro,4,2021-11-01
+149,"repórter fotográfico - realiza registro fotográfico de todos os eventos, ministros, etc",4,2021-11-01
 0,Agente de Segurança Pessoal Privada,150,2021-12-01
 1,Agente de Segurança Pessoal Privada Supervisor de Serviços,8,2021-12-01
 2,Almoxarife,1,2021-12-01

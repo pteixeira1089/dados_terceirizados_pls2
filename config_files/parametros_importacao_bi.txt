@@ -1,0 +1,7 @@
+(sharepoint_site, nome_arquivo, nome_planilha, path) =>
+
+mapeamento_terceirização:
+	sharepoint_site = https://stjjus.sharepoint.com/sites/AGSTeams/
+	nome_arquivo = mapeamento_terceirizados_por_funcao.xlsx
+	nome_planilha = mapeamento_bi
+	path = https://stjjus.sharepoint.com/sites/AGSTeams/Documentos Compartilhados/1. Drive H AGS/Assessoria/0 Dados/Automações/DataScrapping - terceirizados STJ
